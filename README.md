@@ -21,7 +21,7 @@ Nasıl Kullanılır
 1.  Bu depoyu klonlayın:
     
     ```sh    
-    git clone https://github.com/KullaniciAdi/NetCoreApiKeyExample.git
+    git clone https://github.com/yakupsogut/NetCoreApiKeyExample.git
     
 2.  Proje dizinine gidin:
     
